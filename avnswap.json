@@ -1,0 +1,32 @@
+{
+  "name": "AVN",
+  "logoURI": "https://avnrichdefi.com/logo.png",
+  "keywords": [
+    "AvnRich",
+    "defi"
+  ],
+  "timestamp": "2020-09-03T12:17:27.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x2e535cccb45d7A464D9FE186705AA3eb1fCF79fF",
+      "name": "AVNRICH",
+      "symbol": "AVN",
+      "decimals": 18,
+      "logoURI": "https://avnrichdefi.com/logo.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x9c70D078A46F7E8779a324690c4BbA367aDe9044",
+      "name": "AVN OLD",
+      "symbol": "AVN",
+      "decimals": 6,
+      "logoURI": "https://avnrichdefi.com/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0
+  }
+}
